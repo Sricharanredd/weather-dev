@@ -48,7 +48,7 @@ export const SavedLocations: React.FC<SavedLocationsProps> = ({
           <div className="flex items-center gap-3">
             <MapPin className="w-6 h-6 text-blue-500" />
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white">
-              Locations Saved
+              Locations Saveds
             </h2>
           </div>
 
